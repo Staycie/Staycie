@@ -4,9 +4,9 @@ Hi 👋 My name is Stacy
 An aspiring Full-Stack Developer.
 ---------------------------------
 
+* ⚡  I'm an IT student
 * 🌍  I'm based in Philippines
-* 🧠  I'm learning Python
-* ⚡  I'm currently an IT student
+* 🧠  I'm currently learning Python
 
 ### Skills
 
