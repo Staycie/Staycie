@@ -1,5 +1,6 @@
 Hi 👋 My name is Stacy
 ======================
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:960/1*89xL_--7GIoVjXairvk-1w.gif">
 
 An aspiring Full-Stack Developer.
 ---------------------------------
@@ -19,9 +20,6 @@ An aspiring Full-Stack Developer.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Staycie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=staycie&label=Profile%20views&color=0e75b6&style=flat" alt="staycie" /> </p>
 
 
 ### Badges
