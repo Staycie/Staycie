@@ -1,4 +1,4 @@
-Hi 👋 My name is Stacy
+Hi 👋 My name is Stacy Joyce
 ======================
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:960/1*89xL_--7GIoVjXairvk-1w.gif">
 
