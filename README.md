@@ -7,7 +7,7 @@ An aspiring Full-Stack Developer.
 
 * ⚡  I'm an IT student
 * 🌍  I'm based in Philippines
-* 🧠  I'm currently learning Python
+* 🧠  I'm currently learning Vue.js
 
 ### Skills
 
