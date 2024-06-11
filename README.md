@@ -5,7 +5,7 @@ Hi 👋 My name is Stacy Joyce
 An aspiring Full-Stack Developer.
 ---------------------------------
 
-* ⚡  I'm an IT student
+* ⚡  I'm an IT grad
 * 🌍  I'm based in Philippines
 * 🧠  I'm currently learning React.js
 
