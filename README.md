@@ -68,6 +68,14 @@ An aspiring Full-Stack Developer.
 <a href="https://github.com/Staycie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Staycie&layout=compact&langs_count=15&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&card_width=500" alt="Top Languages" /></a>
 
 
+### Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=staycie&show_icons=true&theme=transparent&rank_icon=github)
+
+
+### Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=staycie&theme=darkhub)](https://github.com/staycie/github-profile-trophy)
 
 
 
